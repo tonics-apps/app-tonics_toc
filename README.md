@@ -1,2 +1,2 @@
-# app-tonics_toc
+# App Tonics Toc
 Contains App Tonics Toc Releases
